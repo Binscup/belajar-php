@@ -14,7 +14,7 @@ print_r($explode) ;
 ?>
 <br>
 <?php
-$stringTunggal = "html,css, javascript, php";
+$stringTunggal = "html-css-javascript-php";
 $explode = explode("-", $stringTunggal);
 print_r($explode) ;
 ?>
